@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyThirdApplication</string>
+    <string name="x">X: </string>
+    <string name="y">Y: </string>
+    <string name="z">Z: </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="Coordinates_text">Coordinates</string>
+    <string name="Side_text">Side</string>
+    <string name="Longitude_text">Longitude</string>
+    <string name="Latitude_text">Latitude</string>
+    <string name="no_sensor">No sensor</string>
+</resources>
